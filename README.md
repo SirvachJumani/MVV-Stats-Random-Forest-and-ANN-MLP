@@ -1,2 +1,2 @@
 # Random Forest
-University Trier Project
+University Trier - Multivariate Statistics Subject - Project
