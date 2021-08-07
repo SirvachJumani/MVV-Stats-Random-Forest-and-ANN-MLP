@@ -1,2 +1,2 @@
-# Seminar-paper-project
+# Random Forest
 University Trier Project
