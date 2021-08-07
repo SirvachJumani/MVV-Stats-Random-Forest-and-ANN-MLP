@@ -1,2 +1,2 @@
-# seminar-paper-project
+# Seminar-paper-project
 University Trier Project
