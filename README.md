@@ -1,4 +1,4 @@
-# Random Forest VS Artificial Neural Network Multilayer Perceptron
+# Random Forest VS Artificial Neural Network Multilayer Perceptron (ANN-MLP)
 University Trier - Multivariate Statistics Subject - Project
 
 # Summary of the Project
